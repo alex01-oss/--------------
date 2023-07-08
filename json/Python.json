@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Що таке Python?",
+    "answer_options": [
+      "Мова програмування",
+      "Програмний фреймворк",
+      "Операційна система",
+      "База даних"
+    ],
+    "correct_answer": "Мова програмування"
+  },
+  {
+    "question": "Як створити змінну в Python?",
+    "answer_options": [
+      "variable = value",
+      "var value = variable",
+      "value = variable",
+      "value variable"
+    ],
+    "correct_answer": "variable = value"
+  },
+  {
+    "question": "Як вивести текст на екран в Python?",
+    "answer_options": [
+      "print('Текст')",
+      "input('Текст')",
+      "echo 'Текст'",
+      "console.log('Текст')"
+    ],
+    "correct_answer": "print('Текст')"
+  },
+  {
+    "question": "Як перевірити тип змінної в Python?",
+    "answer_options": [
+      "type(variable)",
+      "variable.type()",
+      "variableType(variable)",
+      "typeof variable"
+    ],
+    "correct_answer": "type(variable)"
+  },
+  {
+    "question": "Як створити цикл for в Python?",
+    "answer_options": [
+      "for i in range(10)",
+      "for i in range(1, 10)",
+      "for i in [1, 2, 3]",
+      "for i in (1, 2, 3)"
+    ],
+    "correct_answer": "for i in range(10)"
+  },
+  {
+    "question": "Як об'єднати два рядки в Python?",
+    "answer_options": [
+      "string1 + string2",
+      "string1 .concat(string2)",
+      "concat(string1, string2)",
+      "string1.concat(string2)"
+    ],
+    "correct_answer": "string1 + string2"
+  },
+  {
+    "question": "Як визначити довжину рядка в Python?",
+    "answer_options": [
+      "len(string)",
+      "length(string)",
+      "string.length()",
+      "string.len()"
+    ],
+    "correct_answer": "len(string)"
+  },
+  {
+    "question": "Як створити функцію в Python?",
+    "answer_options": [
+      "def function_name():",
+      "function function_name():",
+      "create function_name():",
+      "function_name = function():"
+    ],
+    "correct_answer": "def function_name():"
+  },
+  {
+    "question": "Як виконати введення з клавіатури в Python?",
+    "answer_options": [
+      "input()",
+      "keyboard_input()",
+      "read()",
+      "console.input()"
+    ],
+    "correct_answer": "input()"
+  },
+  {
+    "question": "Як перевірити, чи існує файл в Python?",
+    "answer_options": [
+      "os.path.exists(file)",
+      "file.exists()",
+      "file_exists(file)",
+      "exists(file)"
+    ],
+    "correct_answer": "os.path.exists(file)"
+  }
+]

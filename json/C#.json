@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Що таке C#?",
+    "answer_options": [
+      "Мова програмування",
+      "Мова розмітки",
+      "Мова скриптів",
+      "Операційна система"
+    ],
+    "correct_answer": "Мова програмування"
+  },
+  {
+    "question": "Для якої платформи в основному використовується C#?",
+    "answer_options": [
+      "Web-розробка",
+      "Розробка мобільних додатків",
+      "Розробка ігр",
+      "Все перераховане"
+    ],
+    "correct_answer": "Все перераховане"
+  },
+  {
+    "question": "Який синтаксис для оголошення змінної в C#?",
+    "answer_options": [
+      "var variableName = value;",
+      "int variableName = value;",
+      "string variableName = value;",
+      "float variableName = value;"
+    ],
+    "correct_answer": "var variableName = value;"
+  },
+  {
+    "question": "Який фреймворк зазвичай використовується з C#?",
+    "answer_options": [
+      ".NET Framework",
+      "Node.js",
+      "Django",
+      "Ruby on Rails"
+    ],
+    "correct_answer": ".NET Framework"
+  },
+  {
+    "question": "Що є основним пунктом входу для програми C#?",
+    "answer_options": [
+      "Main() method",
+      "Start() method",
+      "Execute() method",
+      "Run() method"
+    ],
+    "correct_answer": "Main() method"
+  },
+  {
+    "question": "Як визначити клас у C#?",
+    "answer_options": [
+      "class ClassName {}",
+      "class = ClassName {}",
+      "ClassName = class {}",
+      "ClassName {}"
+    ],
+    "correct_answer": "class ClassName {}"
+  },
+  {
+    "question": "Яке ключове слово використовується для визначення методу в C#?",
+    "answer_options": [
+      "void",
+      "method",
+      "function",
+      "define"
+    ],
+    "correct_answer": "void"
+  },
+  {
+    "question": "Що з наведеного не є типом даних C#?",
+    "answer_options": [
+      "String",
+      "Boolean",
+      "Integer",
+      "Float"
+    ],
+    "correct_answer": "Float"
+  },
+  {
+    "question": "Як створити об’єкт у C#?",
+    "answer_options": [
+      "ClassName objectName = new ClassName();",
+      "objectName = new ClassName();",
+      "new ClassName = objectName();",
+      "new ClassName();"
+    ],
+    "correct_answer": "ClassName objectName = new ClassName();"
+  },
+  {
+    "question": "Який C# еквівалент оператора if-else в інших мовах програмування?",
+    "answer_options": [
+      "if-else",
+      "case-switch",
+      "if-elseif",
+      "if-then-else"
+    ],
+    "correct_answer": "if-else"
+  }
+]
